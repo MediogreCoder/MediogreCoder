@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lost almost 100 pounds! Feel free to connect to discuss fitness and diet tips!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MediogreCoder)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MediogreCoder)
