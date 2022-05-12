@@ -1,4 +1,4 @@
-## Hi there! My name is Evan and welcome to my Github! 
+## Hi there! My name is Evan and welcome to my GitHub! 
 
 - 🔭 I’m currently working on my portfolio Website
 - 🌱 I’m currently learning python3 and Django REST framework
