@@ -1,4 +1,4 @@
-### Hi there! My name is Evan and welcome to my Github! 
+## Hi there! My name is Evan and welcome to my Github! 
 
 - 🔭 I’m currently working on my portfolio Website
 - 🌱 I’m currently learning python3 and Django REST framework
@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lost almost 100 pounds! Feel free to connect to discuss fitness and diet tips!
 
-Langauges and Frameworks:
+##Langauges and Frameworks:
 
 <hr> 
 <div>
@@ -31,7 +31,7 @@ Langauges and Frameworks:
 </div>
 <hr>
 
-My Stats:
+##My Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MediogreCoder)
 
