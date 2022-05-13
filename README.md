@@ -1,4 +1,7 @@
 ## Hi there! My name is Evan and welcome to my GitHub! 
+<div>
+<img src="https://i.imgur.com/ZEGgXBC.png" alt='none' />
+</div>
 
 - 🔭 I’m currently working on my portfolio Website
 - 🌱 I’m currently learning python3 and Django REST framework
